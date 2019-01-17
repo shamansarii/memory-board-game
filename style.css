@@ -1,0 +1,34 @@
+body {
+	margin-top: 0px;
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Lobster', cursive;
+	font-size: 5em;
+	margin: 2px;
+}
+
+div#memory-board {
+	background: #d0cc95;
+	border:#999 1px solid;
+	width:800px;
+	height:540px;
+	padding:24px;
+	margin:2em auto;
+}
+
+div#memory-board > div {
+	background: #8b0000;
+	border: #000 1px solid;
+	width:71px;
+	height:71px;
+	float:left;
+	margin:10px;
+	padding:20px;
+	font-size:64px;
+	cursor:pointer;
+	text-align:center;
+}
