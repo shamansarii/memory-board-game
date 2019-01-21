@@ -1,7 +1,7 @@
 MEMORY BOARD GAME
 -------------
 
-You can see website here: 
+You can see website here:  https://shamansarii.github.io/memory-board-game/
 
 ## WORKSHOP
 
