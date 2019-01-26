@@ -2,8 +2,7 @@ MEMORY BOARD GAME
 -----------------
 You can see website here:  https://shamansarii.github.io/memory-board-game/
 
-### WORKSHOP
-
+### APP FEATURES
 1. The app is a soft memory board game. You click in the div and 2 div same value and at the end is all div same value to winner
 
 ### INGREDIENTS
